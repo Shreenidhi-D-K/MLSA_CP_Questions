@@ -1,0 +1,22 @@
+Input Output, Maths
+https://www.codechef.com/problems/CHEFPAROLE
+https://www.codechef.com/problems/WRITINGSPEED
+https://www.codechef.com/problems/NEWSPAPER
+https://www.codechef.com/problems/HEATWAVE
+https://www.codechef.com/problems/CHRISTGREET
+https://www.codechef.com/problems/MESSI
+https://www.codechef.com/problems/R5S
+
+
+If Else
+https://www.codechef.com/problems/CLEARDAY
+https://www.codechef.com/problems/COLDPLAYTICK
+https://www.codechef.com/problems/DOUBLERENT
+https://www.codechef.com/problems/YOGADAY
+https://www.codechef.com/problems/FOODCOST
+https://www.codechef.com/problems/DEVDON
+https://www.codechef.com/problems/RIP2000
+https://www.codechef.com/problems/OLYMPICS24
+https://www.codechef.com/problems/AVGOF3
+https://www.codechef.com/problems/MVR
+https://www.codechef.com/problems/MORNINGRUN

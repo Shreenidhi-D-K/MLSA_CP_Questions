@@ -1,0 +1,13 @@
+Easy
+https://www.codechef.com/problems/PALL01
+https://www.codechef.com/problems/BSCOST
+https://www.codechef.com/problems/EZSPEAK
+https://www.codechef.com/problems/HAPPYSTR
+https://www.codechef.com/problems/TTENIS
+
+Medium
+https://www.codechef.com/problems/ZOOZ
+https://www.codechef.com/problems/ALTSTR
+https://www.codechef.com/problems/TSTROBOT
+*
+https://www.codechef.com/problems/CALPOWER
