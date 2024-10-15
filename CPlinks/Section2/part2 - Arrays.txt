@@ -2,3 +2,12 @@ Easy
 https://www.codechef.com/problems/MOOCHEF
 https://www.codechef.com/problems/FINALSALE
 https://www.codechef.com/problems/STOCKMARKET
+https://www.codechef.com/problems/DOLL
+https://www.codechef.com/problems/CALLIM
+
+Medium
+https://www.codechef.com/problems/CS2023_STK
+https://www.codechef.com/problems/COVID19
+
+*
+https://www.codechef.com/problems/PROC18A
